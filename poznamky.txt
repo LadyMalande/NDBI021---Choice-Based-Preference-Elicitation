@@ -1,0 +1,10 @@
+1] chybí implementace 3. podmínky pro výběr zástupců z paperu
+2) V samplech nenabízet staré filmy
+3) filmy doporučovat jen pouze na podobnosti zodpovězených faktorů
+
+
+referát na 27.4., protože je to poslední cviko
+popsat základ
+o co se snaží a proč je to důležitý
+1 příklad jak se to dá dělat
+a ty ostatní implementace se liší hlavně tady a hlavně tady v tom
